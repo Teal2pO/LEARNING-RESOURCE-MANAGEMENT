@@ -102,7 +102,7 @@ Submit a pull request, providing a detailed description of the changes.
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;margin-left: 20px;">
   <img src="https://github.com/mugalan.png" width="50" style="border-radius: 50%; margin-right: 10px;">
-  <span><strong><a href="https://github.com/mugalan">Sanjeevaa Maithreepala</a></strong></span>
+  <span><strong><a href="https://github.com/mugalan">Sanjeeva Maithripala</a></strong></span>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;margin-left: 20px;">
