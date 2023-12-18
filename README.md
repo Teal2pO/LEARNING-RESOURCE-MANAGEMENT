@@ -96,13 +96,13 @@ Submit a pull request, providing a detailed description of the changes.
 ### Current Contributors
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;margin-left: 20px;">
-  <img src="https://github.com/mugalan.png" width="50" style="border-radius: 50%; margin-right: 10px;">
-  <span><strong><a href="https://github.com/mugalan">Sanjeewa Maithreepala</a></strong></span>
+  <img src="https://github.com/nrnw.png" width="50" style="border-radius: 50%; margin-right: 10px;">
+  <span><strong><a href="https://github.com/nrnw">Niuru Ranaweera</a></strong></span>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;margin-left: 20px;">
-  <img src="https://github.com/nrnw.png" width="50" style="border-radius: 50%; margin-right: 10px;">
-  <span><strong><a href="https://github.com/nrnw">Niuru Ranaweera</a></strong></span>
+  <img src="https://github.com/mugalan.png" width="50" style="border-radius: 50%; margin-right: 10px;">
+  <span><strong><a href="https://github.com/mugalan">Sanjeevaa Maithreepala</a></strong></span>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;margin-left: 20px;">
