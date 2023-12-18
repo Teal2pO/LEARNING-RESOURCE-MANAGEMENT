@@ -9,7 +9,7 @@
 
 ## Overview
 
-This is the code for the TEAL Learning Resource Management application. This application is linked with the content Moodle and its database to manage the learning resources.
+This is the source code for the TEAL2.O Learning Resource Management application. This application provides a python based wrapper for the content Moodle and its database to facilitate the collaborative interactive learning resource creation, management and version control by pushing and pulling associated meta data to a GitHuB repository.
 
 
 ## Table of Contents
