@@ -57,7 +57,23 @@ pip install -r requirements.txt
 
 ### Deployment
 
-Since this is a web application, consider deploying it using Gunicorn. You can create a service file on Ubuntu to establish a WebSocket and enable web access by configuring Nginx as a reverse proxy.
+Since this is a web application, consider deploying it using Gunicorn. You can create a service file on Ubuntu to establish a WebSocket and enable web access by configuring Nginx as a reverse proxy. A sample service file is shown below to deploy with Gunicorn
+
+```
+[Unit]
+Description=TEAL LEARNING RESOURCE MANAGEMENT APPLICATION
+After=network.target
+
+[Service]
+User=USERNAME
+Group=USERGROUP
+WorkingDirectory=/var/LEARNING-RESOURCE-MANAGEMENT
+ExecStart=gunicorn --workers 1 --bind unix:/var/LEARNING-RESOURCE-MANAGEMENT/APP.sock teal_lrm:server
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
 
 ### Configuration
 Duplicate the `static_globals_sample.py` file and rename the copy to `static_globals.py`. Once copied, open `static_globals.py` and update the server URLs and Content Moodle API token to establish a connection with the Content Moodle. 
