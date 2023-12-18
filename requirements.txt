@@ -1,0 +1,11 @@
+dash==2.6.1
+dash_bootstrap_components==1.1.0
+dash_daq==0.5.0
+mysql_connector_repackaged==0.3.1
+pandas==1.4.2
+plotly==5.8.0
+PyGithub==2.1.1
+requests==2.22.0
+SQLAlchemy==1.2.19
+static_globals==0.0.2
+urllib3==1.25.8

@@ -1,0 +1,75 @@
+SOLO_01_UNISTRUCTURAL,SOLO_02_MULTISTRUCTURAL,SOLO_03_RELATIONAL,SOLO_04_EXTENDED ABSTRACT,BLOOMS_01_REMEMBER,BLOOMS_02_UNDERSTAND,BLOOMS_03_APPLY,BLOOMS_04_ANALYZE,BLOOMS_05_EVALUATE,BLOOMS_06_CREATE
+articulate,calculate,analyse,abstract,cite,articulate,acquire,analyze,appraise,abstract
+associate,combine,analyze,appraise,define,associate,adapt,approximate,assess,animate
+cite,complete,animate,argue,describe,clarify,allocate,audit,compare,arrange
+clarify,continue,apply,assess,enumerate,convert,alphabetize,blueprint,conclude,assemble
+define,convert,approximate,compose,identify,detail,apply,break down,contrast,budget
+describe,extrapolate,arrange,conclude,index,discuss,ascertain,characterize,counsel,categorize
+detail,factor,assemble,construct,indicate,draw,assign,confirm,criticize,code
+discuss,figure,audit,contrast,label,elaborate,attain,correlate,critique,combine
+draw,interact,blueprint,counsel,list,example,avoid,detect,defend,compile
+elaborate,interpolate,break down,create,match,explain,back up,diagnose,differentiate,compose
+enumerate,list,budget,criticize,meet,express,calculate,dissect,discriminate,construct
+explain,outline,categorize,critique,name,extend,capture,ensure,distinguish,cope
+express,select,characterize,defend,observe,extrapolate,change,examine,estimate,correspond
+extend,transform,classify,derive,personalize,factor,complete,figure out,evaluate,create
+find,translate,code,design,picture graphically,figure,compute,file,grade,cultivate
+give,translate,combine,differentiate,plot,find,customize,group,hire,debug
+give example,use,compile,discriminate,point,generalize,demonstrate,infer,improve,depict
+graph,alphabetize,compose,distinguish,practice,give,depreciate,interrupt,incorporate,design
+handle,assign,confirm,estimate,provide,graph,derive,model,integrate,develop
+identify,order,cope,evaluate,quote,handle,determine,overhaul,interface,devise
+illustrate,,correlate,generalise,read,illustrate,diminish,plan,interpret,dictate
+index,,correspond,generalize,recall,interact,document,portray,join,enhance
+indicate,,cultivate,grade,recite,interconvert,employ,prepare,judge,facilitate
+interconvert,,debug,hire,recognize,interpolate,exercise,prescribe,justify,format
+label,,depict,hypothesis,record,manipulate,explore,program,lecture,formulate
+manipulate,,detect,improve,repeat,operate,expose,rearrange,measure,generate
+match,,develop,incorporate,reproduce,paraphrase,inventory,reconstruct,modify,import
+meet,,devise,integrate,review,proofread,investigate,relate,network,implement
+name,,diagnose,interface,rewrite,query,layout,reorganize,organize,theorise
+observe,,dictate,interpret,round off,separate,manage,revise,predict,hypothesise
+operate,,dissect,join,select,simulate,maximize,specify,rank,
+paraphrase,,distinguish,judge,sequence,sketch,minimize,summarize,rate,
+personalize,,enhance,justify,show,solve,optimize,validate,recommend,
+picture graphically,,ensure,lecture,state,subdivide,order,verify,release,
+plot,,employ,measure,study,train,outline,analyse,support,
+point,,examine,modify,subscribe,transform,point out,argue,test,
+practice,,facilitate,network,subtract,translate,price,prioratise,prove,
+proofread,,figure out,organize,tabulate,,prioritize,classify,,
+provide,,file,perform,trace,,process,form an analogy,,
+query,,form an analogy,predict,transcribe,,produce,generalise,,
+quote,,format,prioritise,translate,,project,,,
+read,,formulate,prove,visualize,,use,,,
+recall,,generate,rank,write,,continue,,,
+recite,,group,rate,tell,,contrast,,,
+recognize,,implement,recommend,,,organize,,,
+record,,import,reflect,,,reflect,,,
+repeat,,infer,release,,,round off,,,
+reproduce,,interrupt,support,,,,,,
+restate,,model,test,,,,,,
+review,,organise,theorise,,,,,,
+rewrite,,overhaul,contrast,,,,,,
+round off,,plan,customize,,,,,,
+separate,,portray,maximize,,,,,,
+show,,prepare,minimize,,,,,,
+simulate,,prescribe,optimize,,,,,,
+sketch,,program,prioratize,,,,,,
+solve,,question,process,,,,,,
+state,,rearrange,produce,,,,,,
+study,,reconstruct,project,,,,,,
+subdivide,,relate,,,,,,,
+subscribe,,reorganize,,,,,,,
+subtract,,revise,,,,,,,
+tell,,sequence,,,,,,,
+tabulate,,specify,,,,,,,
+trace,,summarize,,,,,,,
+train,,validate,,,,,,,
+transcribe,,verify,,,,,,,
+visualize,,acquire,,,,,,,
+write,,adapt,,,,,,,
+demonstrate,,allocate,,,,,,,
+,,ascertain,,,,,,,
+,,capture,,,,,,,
+,,depreciate,,,,,,,
+,,determine,,,,,,,
